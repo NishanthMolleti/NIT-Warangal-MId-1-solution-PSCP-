@@ -1,4 +1,5 @@
 This is a solution for the first mid of NIT warangal , in the subject PSPC . All the answers are written in CPP.
+
 2)We want to check if an atm in is valid or not . The rules are:
   i.it must be a 4 digit number only.
   ii.it should start with any of 1 to 9.
